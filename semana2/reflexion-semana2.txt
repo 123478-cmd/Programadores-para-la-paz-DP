@@ -1,0 +1,8 @@
+Durante esta actividad aprendí a utilizar la terminal de Termux y los comandos básicos de Git.
+Comprendí cómo crear carpetas y archivos desde la consola utilizando diferentes comandos.
+También aprendí a organizar un proyecto dentro de un repositorio de GitHub.
+La creación de archivos con nano me permitió conocer una nueva forma de editar información.
+Además, practiqué el uso de git add, git commit y git push para guardar cambios.
+Esta actividad me ayudó a entender la importancia del control de versiones.
+Aprendí que GitHub permite almacenar y administrar proyectos de manera organizada.
+Finalmente, fortalecí mis conocimientos sobre el manejo de la terminal y herramientas digitales.
