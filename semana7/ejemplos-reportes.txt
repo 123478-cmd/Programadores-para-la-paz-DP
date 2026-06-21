@@ -1,0 +1,18 @@
+Ejemplo 1:
+
+{
+  "tipo": "Infraestructura",
+  "ubicacion": "Parque principal del barrio",
+  "descripcion": "Una lámpara del parque se encuentra dañada y no funciona durante la noche.",
+  "prioridad": "Media"
+}
+
+
+Ejemplo 2:
+
+{
+  "tipo": "Ambiente",
+  "ubicacion": "Zona comunitaria del sector",
+  "descripcion": "Se presenta acumulación de residuos que genera malos olores y afecta el espacio público.",
+  "prioridad": "Alta"
+}

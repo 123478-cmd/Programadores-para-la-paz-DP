@@ -1,0 +1,15 @@
+Al consultar la ruta GET /reportes, el servidor recibe una solicitud para obtener la lista de reportes registrados.
+La API procesa la petición y devuelve los datos almacenados en formato JSON para que puedan ser consultados por la aplicación.
+
+Ejemplo de respuesta del servidor:
+
+[
+  {
+    "id": 1,
+    "tipo": "Infraestructura",
+    "descripcion": "Daño en alumbrado público"
+  }
+]
+
+La respuesta muestra un arreglo de objetos con la información de cada reporte.
+Esto permite que una aplicación pueda mostrar, organizar y gestionar las incidencias reportadas por los ciudadanos.
