@@ -1,0 +1,9 @@
+
+¿Qué hace esta ruta?
+Esta ruta permite consultar la información de los usuarios registrados en la aplicación.
+El servidor recibe la solicitud y devuelve los datos almacenados en el sistema mediante una API.
+
+¿Para qué podría servir en una aplicación comunitaria?
+Podría servir para gestionar la información de los miembros de una comunidad, como sus datos básicos,
+participación en actividades o acceso a servicios comunitarios. Facilita la organización y comunicación
+entre los usuarios de la plataforma.

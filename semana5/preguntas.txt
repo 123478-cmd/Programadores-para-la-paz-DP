@@ -1,0 +1,11 @@
+Ruta: http://localhost:3000
+Al ingresar a esta ruta, el servidor muestra la página o mensaje principal de la aplicación.
+Es la ruta inicial o página de inicio del proyecto.
+
+Ruta: http://localhost:3000/saludo
+Al ingresar a esta ruta, el servidor responde con un mensaje de saludo definido en la aplicación.
+Permite comprobar que la ruta personalizada funciona correctamente.
+
+Ruta: http://localhost:3000/mensaje/juan
+Al ingresar a esta ruta, el servidor recibe el parámetro "juan" desde la URL y muestra un mensaje personalizado.
+Esta ruta permite comprobar el uso de parámetros dentro de Express.
