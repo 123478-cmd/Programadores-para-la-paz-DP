@@ -1,0 +1,12 @@
+Ejemplo de JSON enviado por un ciudadano para reportar una incidencia:
+
+{
+  "tipo": "Daño en vía pública",
+  "ubicacion": "Barrio La Esperanza, calle 10",
+  "descripcion": "Se reporta un hueco de gran tamaño en la vía que dificulta el paso de vehículos y peatones.",
+  "prioridad": "Alta",
+  "fechaReporte": "2026-06-21"
+}
+
+Este formato permite enviar información clara y organizada sobre una situación que necesita atención.
+La API recibe los datos y puede utilizarlos para registrar, gestionar y dar seguimiento a la incidencia.
