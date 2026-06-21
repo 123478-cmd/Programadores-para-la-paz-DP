@@ -1,0 +1,5 @@
+Buenas prácticas de seguridad digital
+
+1. Activar la verificación en dos pasos en las cuentas importantes.
+2. Evitar abrir enlaces o archivos sospechosos recibidos por mensajes o correos.
+3. Realizar copias de seguridad de la información importante.

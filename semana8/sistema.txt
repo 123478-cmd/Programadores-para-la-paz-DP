@@ -1,0 +1,15 @@
+Información del sistema
+
+Comando: uname -a
+Muestra información del sistema operativo, versión del kernel y arquitectura del dispositivo.
+
+Comando: df -h
+Muestra el uso del almacenamiento, indicando cuánto espacio está ocupado y cuánto espacio queda disponible.
+
+Comando: free -h
+Muestra el consumo de memoria RAM y la cantidad disponible para los procesos del sistema.
+
+Comando: top
+Permite observar los procesos activos y el consumo de recursos en tiempo real.
+
+Conocer la información del sistema es importante al administrar un servidor porque ayuda a detectar errores, controlar el rendimiento y realizar mantenimientos preventivos. Esta información permite tomar mejores decisiones para mantener los servicios funcionando correctamente.

@@ -1,0 +1,11 @@
+Buenas prácticas de seguridad para plataformas comunitarias
+
+1. Realizar copias de seguridad periódicas de la información almacenada en la plataforma.
+
+2. Mantener actualizados los sistemas y aplicaciones para corregir posibles fallas de seguridad.
+
+3. Verificar la identidad de los usuarios antes de permitir el acceso a funciones importantes.
+
+4. Capacitar a los usuarios sobre el uso responsable de la plataforma y la protección de la información.
+
+5. Implementar sistemas de recuperación de cuentas para evitar la pérdida de acceso.
