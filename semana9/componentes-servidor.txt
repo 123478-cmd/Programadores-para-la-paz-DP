@@ -1,0 +1,21 @@
+Componentes de un entorno servidor
+
+Sistema operativo:
+Es el software encargado de administrar los recursos del equipo o servidor.
+Permite que otros programas funcionen y facilita la comunicación entre el hardware y las aplicaciones.
+
+Node.js:
+Es un entorno de ejecución que permite ejecutar código JavaScript fuera del navegador.
+Se utiliza para crear servidores y desarrollar aplicaciones web con buen rendimiento.
+
+Aplicación server.js:
+Es el archivo principal donde se encuentra configurado el servidor de la aplicación.
+Contiene las rutas, funciones y configuraciones necesarias para atender solicitudes de los usuarios.
+
+Puerto:
+Es un punto de comunicación que permite al servidor recibir y enviar solicitudes.
+Indica la dirección específica donde una aplicación está escuchando conexiones, por ejemplo el puerto 3000.
+
+Logs:
+Son registros que almacenan información sobre las actividades y eventos del servidor.
+Ayudan a revisar errores, monitorear el funcionamiento y realizar mantenimiento del sistema.

@@ -1,0 +1,18 @@
+Registro de ejecución del servidor
+
+Cuando se ejecuta el comando node server.js, Node.js inicia la aplicación y carga el servidor programado en el archivo server.js. El servidor comienza a escuchar solicitudes en el puerto configurado y queda disponible para recibir peticiones de los usuarios.
+
+El mensaje que aparece en la terminal es:
+
+Servidor ejecutándose en puerto 3000
+
+Cuando se visita la ruta /estado, el servidor responde con un mensaje en formato JSON indicando que la API está funcionando correctamente.
+
+Ejemplo de respuesta:
+
+{
+  "estado": "Servidor funcionando",
+  "servicio": "API comunitaria"
+}
+
+Esta respuesta permite verificar que el servidor está activo y que los servicios de la aplicación pueden responder correctamente a las solicitudes realizadas.
