@@ -1,0 +1,21 @@
+Entidad: Causa
+Campos principales:
+- ID de la causa
+- Título
+- Descripción
+- Fecha de creación
+- Estado
+
+Propósito de la información:
+Almacenar la información de cada causa o iniciativa comunitaria para organizar su seguimiento y conocer su estado.
+
+Entidad: Apoyo
+Campos principales:
+- ID del apoyo
+- Nombre del participante
+- ID de la causa
+- Fecha del apoyo
+- Tipo de apoyo
+
+Propósito de la información:
+Registrar los apoyos que recibe cada causa y relacionarlos con la iniciativa correspondiente para llevar un control de la participación de la comunidad.

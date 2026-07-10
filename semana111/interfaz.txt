@@ -1,0 +1,9 @@
+La interfaz de la plataforma estaría diseñada para que cualquier usuario pueda navegar de forma sencilla y encontrar rápidamente las funciones principales. En la página de inicio se mostraría una lista con todas las causas comunitarias disponibles, donde cada una incluiría su título, una descripción breve y la fecha de publicación para facilitar su consulta.
+
+En la parte superior de la página habría un formulario destinado a crear nuevas causas. Este formulario tendría campos como título y descripción, además de un botón para enviar la información. Antes de guardar los datos, el sistema validaría que los campos obligatorios estén completos para evitar registros incompletos.
+
+Cada causa publicada tendría un botón de **"Apoyar"**, el cual permitiría registrar el apoyo de un usuario autenticado. Al presionar este botón, la aplicación actualizaría la información almacenada en la base de datos y reflejaría el cambio de manera inmediata en la interfaz.
+
+Junto al botón de apoyo se mostraría un contador con el número total de personas que han apoyado cada causa. Este contador se actualizaría automáticamente después de cada nuevo registro para que los usuarios puedan conocer el nivel de participación de la comunidad en tiempo real.
+
+La interfaz también estaría desarrollada con un diseño limpio, organizado y fácil de utilizar desde computadores o dispositivos móviles. Además, solo mostraría información pública de las causas y en ningún momento expondría datos personales, contraseñas o cualquier otra información sensible de los usuarios, garantizando así la seguridad y la privacidad de la plataforma.
